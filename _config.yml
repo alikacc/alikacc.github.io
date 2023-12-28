@@ -1,24 +1,25 @@
 # Dependencies
-markdown: redcarpet
+markdown: kramdown
 highlighter: pygments
 
 # Permalinks
 permalink: pretty
-relative_permalinks: true
+relative_permalinks: false
 
 # Setup
 title: Hyde
 tagline: 'A Jekyll theme'
 description: 'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url: http://localhost:4000
+url: http://hyde.getpoole.com
 baseurl: /
 
 author:
   name: 'Mark Otto'
   url: https://twitter.com/mdo
 
+# Pagination Configuration
 paginate: 5
-paginate_path: ./page:num/
+paginate_path: '/page:num/'  # Adjust the path as needed
 
 # Custom vars
 version: 2.1.0
@@ -28,3 +29,4 @@ github:
 
 plugins:
   - jekyll-paginate
+  - jekyll-gist
