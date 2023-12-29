@@ -24,7 +24,7 @@ paginate_path: '/page:num/'  # Adjust the path as needed
 version: 2.1.0
 
 github:
-  repo: https://github.com/alikacc/alikacc.github.io
+  repo: https://github.com/poole/hyde
 
 plugins:
   - jekyll-paginate
