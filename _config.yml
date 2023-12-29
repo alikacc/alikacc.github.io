@@ -8,7 +8,6 @@ highlighter: pygments
 # Setup
 title: Alika Cynthia Clarissa
 tagline: 'A Portfolio Website'
-# description: 'two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
 url: https://alikacc.github.io/
 baseurl: https://alikacc.github.io/
 
