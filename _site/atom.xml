@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Alika Cynthia Clarissa</title>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2023-12-30T01:58:04+07:00</updated>
+ <id>http://localhost:4000</id>
+ <author>
+   <name></name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>About Me</title>
+   <link href="http://localhost:4000/2012/02/07/example-content.html"/>
+   <updated>2012-02-07T00:00:00+07:00</updated>
+   <id>http://localhost:4000/2012/02/07/example-content</id>
+   <content type="html">&lt;div class=&quot;sidebar-about&quot; style=&quot;text-align: justify&quot;&gt;
+  &lt;img src=&quot;.\foto.jpeg&quot; alt=&quot;Alika Cynthia Clarissa&quot; width=&quot;300&quot; style=&quot;float: right; margin-left: 20px;&quot; /&gt;
+  &lt;p&gt;Hello, I
+  Hi, I&apos;m Alika Cynthia Clarissa, an undergradute electrical student at Bandung Institute of Technology. Alika Cynthia Clarissa, an undergraduate Electrical Engineering student at Institut Teknologi. I have a big interest in robotics and mechanical engineering. My passion pushes me to continuously strive to deepen my knowledge in both fields, as evidenced by my participation in Unit Robotika ITB (URO) as the mechanical team of Viva la Ganesha. [...]i, I&apos;m Alika Cynthia Clarissa, an undergraduate Electrical Engineering student at Institut Teknologi. I have a big interest in robotics and mechanical engineering. My passion pushes me to continuously strive to deepen my knowledge in both fields, as evidenced by my participation in Unit Robotika ITB (URO) as the mechanical team of Viva la Ganesha. [...]i, I&apos;m Alika Cynthia Clarissa, an undergraduate Electrical Engineering student at Institut Teknologi. I have a big interest in robotics and mechanical engineering. My passion pushes me to continuously strive to deepen my knowledge in both fields, as evidenced by my participation in Unit Robotika ITB (URO) as the mechanical team of Viva la Ganesha. [...]&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;message&quot;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;Language: English (Advanced C1), Japanese (Beginner), Chinese (Beginner), Indonesia (Native)&lt;/li&gt;
+    &lt;li&gt;Programming: C/C++, Python, Bash, MQTT, Ruby, Docker, Kotlin, VHDL&lt;/li&gt;
+    &lt;li&gt;Software: Altium Designer, EAGLE, Autodesk Inventor, Figma, Android Studio, MATLAB, SOLIDWORKS, Git, Visual Studio, Android Studio, Onshape&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+</content>
+ </entry>
+ 
+
+</feed>
