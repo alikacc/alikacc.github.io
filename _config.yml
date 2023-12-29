@@ -1,31 +1,56 @@
+# # Dependencies
+# markdown: kramdown
+# highlighter: pygments
+
+# # Permalinks
+# # permalink: "/:title"
+
+# # Setup
+# title: Alika Cynthia Clarissa
+# tagline: 'A Portfolio Website'
+# # description: 'two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+# url: https://alikacc.github.io/
+# baseurl: https://alikacc.github.io/
+
+# # author:
+# #   name: 'Mark Otto'
+# #   url: https://twitter.com/mdo
+
+# # Pagination Configuration
+# paginate: 5
+# paginate_path: '/page:num/'  # Adjust the path as needed
+
+# # Custom vars
+# version: 2.1.0
+
+# github:
+#   repo: https://github.com/poole/hyde
+
 # Dependencies
-markdown: kramdown
+markdown: redcarpet
 highlighter: pygments
-
-# Permalinks
-# permalink: "/:title"
-
-# Setup
-title: Alika Cynthia Clarissa
-tagline: 'A Portfolio Website'
-# description: 'two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url: https://alikacc.github.io/
-baseurl: https://alikacc.github.io/
-
-# author:
-#   name: 'Mark Otto'
-#   url: https://twitter.com/mdo
-
-# Pagination Configuration
-paginate: 5
-paginate_path: '/page:num/'  # Adjust the path as needed
-
-# Custom vars
-version: 2.1.0
-
-github:
-  repo: https://github.com/poole/hyde
 
 plugins:
   - jekyll-paginate
   - jekyll-gist
+
+# Permalinks
+permalink: pretty
+relative_permalinks: false
+
+# Setup
+title: VisionBreak
+tagline: "Official Website"
+description: "A Texas-based indie game studio"
+url: https://alikacc.github.io/
+baseurl: /
+
+author:
+  name: "Mark Otto"
+  url: https://twitter.com/mdo
+
+# Custom vars
+version: 1.0.0
+
+github:
+  repo: https://github.com/poole/hyde
