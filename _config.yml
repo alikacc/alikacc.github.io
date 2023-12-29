@@ -6,7 +6,7 @@ highlighter: pygments
 title: Alika Cynthia Clarissa
 tagline: 'A Portfolio Website'
 url: https://alikacc.github.io/
-baseurl: https://alikacc.github.io/
+baseurl: /alikacc.github.io/
 
 # author:
 #   name: 'Mark Otto'
