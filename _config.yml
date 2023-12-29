@@ -1,9 +1,6 @@
 # Dependencies
-markdown: kramdown
+markdown: redcarpet
 highlighter: pygments
-
-# Permalinks
-# permalink: "/:title"
 
 # Setup
 title: Alika Cynthia Clarissa
